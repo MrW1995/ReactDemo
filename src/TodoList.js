@@ -4,7 +4,7 @@ class TodoList extends Component {
     constructor(props){
         super(props)
         this.state = this.setState({
-            count:0
+            count:1
         })
     }
 
